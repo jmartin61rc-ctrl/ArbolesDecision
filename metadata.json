@@ -1,0 +1,6 @@
+{
+  "name": "Arboris Analytics",
+  "description": "Plataforma empresarial inteligente para análisis exploratorio, entrenamiento y optimización de Árboles de Decisión y recomendaciones ejecutivas de negocio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
